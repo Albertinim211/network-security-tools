@@ -37,3 +37,10 @@ The core utility, `port_scanner.py`, uses the `socket` module to interface with 
 
    🛡️ Ethical Use Warning
 This tool is for educational and authorized security auditing purposes only. Unauthorized scanning of networks you do not own is illegal and unethical. Always obtain written consent before performing any security assessment.
+
+Service Fingerprinting (Banner Grabbing)
+While port scanning identifies "open doors," this tool performs Banner Grabbing to identify the software versioning behind those doors. This is critical for:
+
+Vulnerability Mapping: Comparing service versions against CVE (Common Vulnerabilities and Exposures) databases.
+
+Compliance Auditing: Ensuring only approved versions of SSH or Web Servers are deployed in the infrastructure.
