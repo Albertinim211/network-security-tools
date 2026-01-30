@@ -34,3 +34,6 @@ The core utility, `port_scanner.py`, uses the `socket` module to interface with 
    ```bash
    git clone [https://github.com/yourusername/network-security-tools.git](https://github.com/yourusername/network-security-tools.git)
    cd network-security-tools/scripts
+
+   🛡️ Ethical Use Warning
+This tool is for educational and authorized security auditing purposes only. Unauthorized scanning of networks you do not own is illegal and unethical. Always obtain written consent before performing any security assessment.
